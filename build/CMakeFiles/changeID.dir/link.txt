@@ -1,0 +1,1 @@
+/usr/bin/g++   -O3 -march=native -Wall -g  -rdynamic CMakeFiles/changeID.dir/src/changeID.cpp.o CMakeFiles/changeID.dir/src/test_motor.cpp.o  -o changeID   -L/home/quinton/Desktop/UnitreeMotorSDK_A1/lib  -Wl,-rpath,/home/quinton/Desktop/UnitreeMotorSDK_A1/lib -lunitreeMotorSDK_Linux64 

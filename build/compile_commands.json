@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/quinton/Desktop/UnitreeMotorSDK_A1/build",
+  "command": "/usr/bin/g++   -I/home/quinton/Desktop/UnitreeMotorSDK_A1/include   -O3 -march=native -Wall -g   -o CMakeFiles/changeID.dir/src/changeID.cpp.o -c /home/quinton/Desktop/UnitreeMotorSDK_A1/src/changeID.cpp",
+  "file": "/home/quinton/Desktop/UnitreeMotorSDK_A1/src/changeID.cpp"
+},
+{
+  "directory": "/home/quinton/Desktop/UnitreeMotorSDK_A1/build",
+  "command": "/usr/bin/g++   -I/home/quinton/Desktop/UnitreeMotorSDK_A1/include   -O3 -march=native -Wall -g   -o CMakeFiles/changeID.dir/src/test_motor.cpp.o -c /home/quinton/Desktop/UnitreeMotorSDK_A1/src/test_motor.cpp",
+  "file": "/home/quinton/Desktop/UnitreeMotorSDK_A1/src/test_motor.cpp"
+}
+]
